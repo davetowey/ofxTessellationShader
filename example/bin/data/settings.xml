@@ -1,0 +1,70 @@
+<Widget>
+    <Kind>4</Kind>
+    <Name>BG_RED</Name>
+    <Value>38.940887451</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>BG_GREEN</Name>
+    <Value>65.320198059</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>BG_BLUE</Name>
+    <Value>136.921188354</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>SPEED</Name>
+    <Value>0.000000000</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>ADD</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>MULTIPLY</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>NONE</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>PATCHES</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>FILL</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>WIREFRAME</Name>
+    <Value>0</Value>
+</Widget>
+<Widget>
+    <Kind>2</Kind>
+    <Name>DYNAMIC_LOD</Name>
+    <Value>1</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>INNER_TESS</Name>
+    <Value>32</Value>
+</Widget>
+<Widget>
+    <Kind>42</Kind>
+    <Name>OUTER_TESS</Name>
+    <Value>31</Value>
+</Widget>
+<Widget>
+    <Kind>4</Kind>
+    <Name>VE</Name>
+    <Value>261.083740234</Value>
+</Widget>
