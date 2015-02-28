@@ -37,6 +37,7 @@ void ofApp::setup(){
         
     }
     
+    cam.enableMouseInput();
     cam.setDistance(1000);
     
     offset = 0.0;
